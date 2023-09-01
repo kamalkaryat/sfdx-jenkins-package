@@ -2,11 +2,14 @@
     "orgName": "TestOrg",
     "edition": "Developer",
     "settings": {
-        "orgPreferenceSettings": {
-            "s1DesktopEnabled": true
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": true
         },
-        "activitySettings": {
-            "enableActivitiesReminder": false
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "communitiesSettings": {
+            "enableNetworksEnabled": true
         }
     }
 }
